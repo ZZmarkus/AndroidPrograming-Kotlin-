@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WidgetTest</string>
+    <string name="button01_main">첫번째 버튼</string>
+    <string name="button02_main">두번째 버튼</string>
+</resources>
